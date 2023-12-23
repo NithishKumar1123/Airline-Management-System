@@ -1,2 +1,3 @@
 # Airline-Management-System
-An Airline Management System is a managerial software which targets to control all operations of an airline. Airlines provide transport services for their passengers.
+An Airline Management System is a managerial software which targets to control all operations of an airline. Airlines provide transport services for their passengers. All operations of an airline company are controlled by the airline management system. This system involves the scheduling of flights, air ticket reservations, flight cancellations, customer support, and staff management. In addition to these functionalities, this system provides services to book hotels, restaurants and travel facilities as per the request
+of the passenger. Daily flights updates can also be retrieved by using the system.
